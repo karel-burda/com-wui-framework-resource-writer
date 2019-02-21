@@ -1,5 +1,5 @@
 ## Introduction
-Multi-platform executable that can inject/embed arbitrary content into binaries (PE, ELF, Mach-O) using LIEF framework.
+Multi-platform executable that can inject/embed arbitrary content into binaries (PE, ELF, Mach-O) using [LIEF](https://lief.quarkslab.com) framework.
 
 The project location is here: **https://bitbucket.org/wuiframework/com-wui-framework-resource-writer**.
 
