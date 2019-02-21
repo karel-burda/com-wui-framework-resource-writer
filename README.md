@@ -7,4 +7,4 @@ The project location is here: https://bitbucket.org/wuiframework/com-wui-framewo
 This software is owned or controlled by NXP Semiconductors.
 The use of this software is governed by the BSD-3-Clause Licence distributed with this material.
   
-See the `LICENSE` file for more details.
+See the [LICENSE](LICENSE) file for more details.
