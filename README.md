@@ -1,3 +1,6 @@
+![Version](https://img.shields.io/badge/version-0.9.1-blue.svg)
+[![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg?style=flat)](LICENSE)
+
 ## Introduction
 Multi-platform executable that can inject/embed arbitrary content into binaries (PE, ELF, Mach-O) using [LIEF](https://lief.quarkslab.com) framework.
 
