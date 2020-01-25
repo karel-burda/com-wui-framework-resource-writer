@@ -5,8 +5,7 @@ Multi-platform executable that can inject/embed arbitrary content into binaries 
 
 Part of the WUI framework, see **https://bitbucket.org/wuiframework/com-wui-framework-resource-writer/src/develop/**.
 
-## Related
-Developed as an independent part of the multi-platform framework for application development: https://www.wuiframework.com
+Developed as an independent part of the multi-platform framework for application development: https://www.wuiframework.com.
 
 ## License
 This software is owned or controlled by NXP Semiconductors.
