@@ -3,7 +3,7 @@
 ## Introduction
 Multi-platform executable that can inject/embed arbitrary content into binaries (PE, ELF, Mach-O).
 
-Part of the WUI framework, see **https://bitbucket.org/wuiframework/com-wui-framework-resource-writer/src/develop/**.
+Part of the WUI framework, see **https://bitbucket.org/wuiframework/com-wui-framework-resource-writer/src/develop**.
 
 Developed as an independent part of the multi-platform framework for application development: https://www.wuiframework.com.
 
